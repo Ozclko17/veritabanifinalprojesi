@@ -1,0 +1,17 @@
+C:\Users\omero\OneDrive\Masaüstü\Finalproje\FİnalProjesi\FİnalProjesi\bin\Debug\net6.0-windows\FİnalProjesi.exe
+C:\Users\omero\OneDrive\Masaüstü\Finalproje\FİnalProjesi\FİnalProjesi\bin\Debug\net6.0-windows\FİnalProjesi.deps.json
+C:\Users\omero\OneDrive\Masaüstü\Finalproje\FİnalProjesi\FİnalProjesi\bin\Debug\net6.0-windows\FİnalProjesi.runtimeconfig.json
+C:\Users\omero\OneDrive\Masaüstü\Finalproje\FİnalProjesi\FİnalProjesi\bin\Debug\net6.0-windows\FİnalProjesi.dll
+C:\Users\omero\OneDrive\Masaüstü\Finalproje\FİnalProjesi\FİnalProjesi\bin\Debug\net6.0-windows\FİnalProjesi.pdb
+C:\Users\omero\OneDrive\Masaüstü\Finalproje\FİnalProjesi\FİnalProjesi\obj\Debug\net6.0-windows\FİnalProjesi.csproj.AssemblyReference.cache
+C:\Users\omero\OneDrive\Masaüstü\Finalproje\FİnalProjesi\FİnalProjesi\obj\Debug\net6.0-windows\FİnalProjesi.Form1.resources
+C:\Users\omero\OneDrive\Masaüstü\Finalproje\FİnalProjesi\FİnalProjesi\obj\Debug\net6.0-windows\FİnalProjesi.csproj.GenerateResource.cache
+C:\Users\omero\OneDrive\Masaüstü\Finalproje\FİnalProjesi\FİnalProjesi\obj\Debug\net6.0-windows\FİnalProjesi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\omero\OneDrive\Masaüstü\Finalproje\FİnalProjesi\FİnalProjesi\obj\Debug\net6.0-windows\FİnalProjesi.AssemblyInfoInputs.cache
+C:\Users\omero\OneDrive\Masaüstü\Finalproje\FİnalProjesi\FİnalProjesi\obj\Debug\net6.0-windows\FİnalProjesi.AssemblyInfo.cs
+C:\Users\omero\OneDrive\Masaüstü\Finalproje\FİnalProjesi\FİnalProjesi\obj\Debug\net6.0-windows\FİnalProjesi.csproj.CoreCompileInputs.cache
+C:\Users\omero\OneDrive\Masaüstü\Finalproje\FİnalProjesi\FİnalProjesi\obj\Debug\net6.0-windows\FİnalProjesi.dll
+C:\Users\omero\OneDrive\Masaüstü\Finalproje\FİnalProjesi\FİnalProjesi\obj\Debug\net6.0-windows\refint\FİnalProjesi.dll
+C:\Users\omero\OneDrive\Masaüstü\Finalproje\FİnalProjesi\FİnalProjesi\obj\Debug\net6.0-windows\FİnalProjesi.pdb
+C:\Users\omero\OneDrive\Masaüstü\Finalproje\FİnalProjesi\FİnalProjesi\obj\Debug\net6.0-windows\FİnalProjesi.genruntimeconfig.cache
+C:\Users\omero\OneDrive\Masaüstü\Finalproje\FİnalProjesi\FİnalProjesi\obj\Debug\net6.0-windows\ref\FİnalProjesi.dll
